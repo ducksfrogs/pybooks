@@ -1,0 +1,2 @@
+model_checkpoint_path: "moled.ckpt"
+all_model_checkpoint_paths: "moled.ckpt"
